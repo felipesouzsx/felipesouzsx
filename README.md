@@ -7,7 +7,11 @@
 </div>
 <br>
 
-<p align="center">Languages</p>
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Languages&center=true&color=FFFFFF&repeat=false)](https://git.io/typing-svg)
+
+</div>
 <p align="center">
   <!-- HTML -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="HTML5" width="40" height="40"/></a>
@@ -21,7 +25,11 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
 </p>
 
-<p align="center">Tools</p>
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Tools&center=true&color=FFFFFF&repeat=false)](https://git.io/typing-svg)
+
+</div>
 <p align="center">
   <!-- Aseprite -->
   <a href="https://www.aseprite.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/archive/6/69/20231108190719%21Logo_Aseprite.svg" alt="Aseprite" width="40" height="40"/></a>
