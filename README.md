@@ -1,7 +1,10 @@
 <p>
   <h1><img src="https://drive.google.com/uc?id=1S532Gbho22THZUMWm_BvjQahH1D-Tw5d">Heyo! I'm Felipe</h1>
 </p>
-💻 20 year old software developer<br>
+<div>
+  <img src="https://godotengine.org/assets/press/icon_color.svg" alt="Godot Engine" height="20"/> Game Developer using Godot<br>
+</div>
+🌐 Hobbyist Web Developer<br>
 📖 Software Development and Analysis Student<br>
 💼 Freelance Pixel Artist and 3D Artist<br>
 <br>
