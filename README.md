@@ -6,7 +6,7 @@
 </div>
 🌐 Hobbyist Web Developer<br>
 📖 Software Development and Analysis Student<br>
-💼 Freelance Pixel Artist and 3D Artist<br>
+💼 Working as a Freelancer Pixel Artist and 3D Artist<br>
 <br>
 <br>
 
