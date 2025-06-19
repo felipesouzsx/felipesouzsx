@@ -30,8 +30,13 @@
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Softwares&color=FFFFFF&repeat=false&vCenter=true&height=25)](https://git.io/typing-svg)
-<!-- Aseprite -->
-<a href="https://www.aseprite.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/archive/6/69/20231108190719%21Logo_Aseprite.svg" alt="Aseprite" width="40" height="40"/></a>
+<p>
+  <!-- Aseprite -->
+  <a href="https://www.aseprite.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/archive/6/69/20231108190719%21Logo_Aseprite.svg" alt="Aseprite" width="40" height="40"/></a>
+  <!-- Blockbench  -->
+  <a href="https://www.blockbench.net/" target="_blank" rel="noreferrer"><img src="https://www.blockbench.net/images/logos/icon.png" alt="Aseprite" width="40" height="40"/></a>
+</p>
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Where+to+find+me&color=FFFFFF&repeat=false&vCenter=true&height=25)](https://git.io/typing-svg)
 
