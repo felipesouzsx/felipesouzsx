@@ -1,7 +1,7 @@
 <p>
-  <h1><img src="https://drive.google.com/uc?id=1S532Gbho22THZUMWm_BvjQahH1D-Tw5d">Heyo! I'm Felipe</h1>
+  <h1><img src="https://drive.google.com/uc?id=1S532Gbho22THZUMWm_BvjQahH1D-Tw5d">Nice to see you here!</h1>
 </p>
-💼 Working as a Freelancer Pixel Artist and 3D Artist<br>
+💼 Currently working as a Freelancer Pixel Artist and 3D Artist<br>
 📖 Software Development and Analysis Student<br>
 <div>
   <img src="https://godotengine.org/assets/press/icon_color.svg" alt="Godot Engine" height="21" width="20" position="bottom"/> Game Developer using Godot<br>
