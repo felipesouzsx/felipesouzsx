@@ -4,7 +4,7 @@
 💼 Currently working as a Freelancer Pixel Artist and 3D Artist<br>
 📖 Software Development and Analysis Student<br>
 <div>
-  <img src="https://godotengine.org/assets/press/icon_color.svg" alt="Godot Engine" height="21" width="20" position="bottom"/> Game Developer using Godot<br>
+  <img align="top" src="https://godotengine.org/assets/press/icon_color.svg" alt="Godot Engine" height="20" width="20"/> Game Developer using Godot<br>
 </div>
 🌐 Hobbyist Web Developer<br>
 <br>
