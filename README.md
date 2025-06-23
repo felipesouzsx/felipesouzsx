@@ -13,9 +13,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Technologies&color=FFFFFF&repeat=false&vCenter=true&height=25)](https://git.io/typing-svg)
 <p>
   <!-- HTML -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="HTML5" width="40" height="40"/></a>
+  <a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="HTML5" width="40" height="40"/></a>
   <!-- CSS -->
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
   <!-- Rust -->
   <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/rust-1.png" alt="Rust" width="40" height="40"/></a>
   <!-- Python -->
